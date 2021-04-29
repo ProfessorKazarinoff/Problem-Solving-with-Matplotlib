@@ -264,3 +264,4 @@ Thumbs.db
 venv/
 .idea/
 .vscode/
+.env/
